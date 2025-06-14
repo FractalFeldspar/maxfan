@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fractalfeldspar.github.io/al-folio/sitemap.xml
+Sitemap: https://fractalfeldspar.github.io/sitemap.xml
