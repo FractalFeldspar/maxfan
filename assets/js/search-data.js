@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
@@ -496,11 +496,26 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-wingnut",
+          title: 'Wingnut',
+          description: "May 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Wingnut/";
+            },},{id: "projects-chameleon",
+          title: 'Chameleon',
+          description: "Feb-May 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/chameleon/";
+            },},{id: "projects-romanesco",
+          title: 'Romanesco',
+          description: "Feb 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/romanesco/";
+            },},{id: "projects-tide-pod",
+          title: 'Tide Pod',
+          description: "Feb 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tide%20pod/";
             },},{
         id: 'social-email',
         title: 'email',
