@@ -501,6 +501,11 @@ ninja.data = [{
           description: "May 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Wingnut/";
+            },},{id: "projects-reverse-engineering-a-bluebike",
+          title: 'Reverse Engineering a Bluebike',
+          description: "Feb-Mar 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bluebike/";
             },},{id: "projects-chameleon",
           title: 'Chameleon',
           description: "Feb-May 2023",
