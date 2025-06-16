@@ -503,12 +503,12 @@ ninja.data = [{
               window.location.href = "/projects/Wingnut/";
             },},{id: "projects-reverse-engineering-a-bluebike",
           title: 'Reverse Engineering a Bluebike',
-          description: "Feb-Mar 2025",
+          description: "Feb - Mar 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bluebike/";
             },},{id: "projects-chameleon",
           title: 'Chameleon',
-          description: "Feb-May 2023",
+          description: "Feb - May 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chameleon/";
             },},{id: "projects-romanesco",
@@ -516,6 +516,11 @@ ninja.data = [{
           description: "Feb 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/romanesco/";
+            },},{id: "projects-streetlamp-morse-code",
+          title: 'Streetlamp Morse Code',
+          description: "Jul - Oct 2022",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/streetlamp/";
             },},{id: "projects-tide-pod",
           title: 'Tide Pod',
           description: "Feb 2023",
