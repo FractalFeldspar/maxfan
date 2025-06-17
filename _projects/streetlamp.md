@@ -47,4 +47,4 @@ I then created a frame that would allow me to adjust the pitch angle of the stre
     <iframe width="560" height="315" src="https://www.youtube.com/embed/6-eLX4JNZW0?si=c_LJ8SttugNq9J-L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-Since I was right next to the Charles River and I lived in a tall building in Boston, I decided to send Morse code to Cambridge. A friend of mine who happened to live in Cambridge took this video of the streetlamp flashing. I was pleased to see that he could clearly see my message even though the streetlamp was not facing directly towards him.
+Since I lived in a tall building in Boston right next to the Charles River, I decided to send Morse code across the river to Cambridge. A friend of mine who lived in Cambridge took this video of the streetlamp flashing. I was pleased to see that he could clearly see my message even though the streetlamp was not facing directly towards him.

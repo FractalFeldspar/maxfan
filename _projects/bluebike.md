@@ -39,7 +39,7 @@ For those unfamiliar with Bluebikes, they're a bicycle sharing service in Boston
     </div>
 </div>
 
-The electronics are quite simple. The front wheel hub houses a generator that powers the front and rear lights, and the docking triangle contains an RFID chip potted inside (as seen in an X ray scan). There is no tracking device in the bike.
+The electronics are quite simple. The front wheel hub houses a generator that powers the front and rear lights, and the docking triangle contains an RFID chip potted inside (which I saw using an X ray scanner). There is no tracking device in the bike.
 
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3">
