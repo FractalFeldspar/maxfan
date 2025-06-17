@@ -516,6 +516,11 @@ ninja.data = [{
           description: "Feb - May 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chameleon/";
+            },},{id: "projects-curta-calculator",
+          title: 'Curta Calculator',
+          description: "Aug 2024 - Feb 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/curta-calculator/";
             },},{id: "projects-milk-jug",
           title: 'Milk Jug',
           description: "Sep 2024",
