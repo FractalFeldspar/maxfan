@@ -501,6 +501,11 @@ ninja.data = [{
           description: "May 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Wingnut/";
+            },},{id: "projects-backdrive-resisting-mechanism",
+          title: 'Backdrive Resisting Mechanism',
+          description: "May 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/backdrive-resisting-mechanism/";
             },},{id: "projects-reverse-engineering-a-bluebike",
           title: 'Reverse Engineering a Bluebike',
           description: "Feb - Mar 2025",
@@ -511,6 +516,16 @@ ninja.data = [{
           description: "Feb - May 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chameleon/";
+            },},{id: "projects-milk-jug",
+          title: 'Milk Jug',
+          description: "Sep 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/milk-jug/";
+            },},{id: "projects-mooncake-stamp",
+          title: 'Mooncake Stamp',
+          description: "Apr 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mooncake-stamp/";
             },},{id: "projects-romanesco",
           title: 'Romanesco',
           description: "Feb 2023",
@@ -525,7 +540,7 @@ ninja.data = [{
           title: 'Tide Pod',
           description: "Feb 2023",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/tide%20pod/";
+              window.location.href = "/projects/tide-pod/";
             },},{
         id: 'social-email',
         title: 'email',
