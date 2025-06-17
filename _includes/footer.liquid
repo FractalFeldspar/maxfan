@@ -1,4 +1,6 @@
-{% capture footer_contents %}
+{% comment %} I commented out all the code because the information displayed in the footer didn't seem useful {% endcomment %}
+
+{% comment %} {% capture footer_contents %}
   &copy; Copyright {{ site.time | date: '%Y' }}
   {{ site.first_name }}
   {{ site.middle_name }}
@@ -27,4 +29,4 @@
       {{ footer_contents }}
     </div>
   </footer>
-{% endif %}
+{% endif %} {% endcomment %}
