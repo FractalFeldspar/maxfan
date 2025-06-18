@@ -175,5 +175,5 @@ The seat has big cylinders of rubber underneath it to provide shock absorption.
     </div>
 </div>
 
-I cut open the back wheel hub (which housed the continuous gear shifter) with a bandsaw because I was not able to disassemble it manually. I had even laser cut a custom wrench to fit into the splines of the lid, but I bent the wrench trying to open it. I confirmed through the manufacturer’s website and my observations of the opened back wheel hub that the lid screwed onto that part of the hub.
+I cut open the back wheel hub (which housed the continuous gear shifter) with a bandsaw because I was not able to disassemble it manually. I had even laser cut a custom wrench out of steel to fit into the splines of the lid, but I bent the wrench trying to open it. I confirmed through the manufacturer’s website and my observations of the opened back wheel hub that the lid screwed onto that part of the hub.
 
