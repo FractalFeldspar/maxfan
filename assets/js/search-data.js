@@ -501,11 +501,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-wingnut",
-          title: 'Wingnut',
-          description: "May 2024",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Wingnut/";
             },},{id: "projects-backdrive-resisting-mechanism",
           title: 'Backdrive Resisting Mechanism',
           description: "May 2024",
@@ -566,6 +561,11 @@ ninja.data = [{
           description: "Feb 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tide-pod/";
+            },},{id: "projects-wingnut",
+          title: 'Wingnut',
+          description: "May 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wingnut/";
             },},{
         id: 'social-email',
         title: 'email',
