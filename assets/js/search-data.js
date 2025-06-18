@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -461,6 +461,11 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-3d-alien-bracket",
+          title: '3D Alien Bracket',
+          description: "Aug 2022",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3D-alien-bracket/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
@@ -511,6 +516,11 @@ ninja.data = [{
           description: "Feb - Mar 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bluebike/";
+            },},{id: "projects-capacitor-plushie",
+          title: 'Capacitor Plushie',
+          description: "Jun 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/capacitor-plushie/";
             },},{id: "projects-chameleon",
           title: 'Chameleon',
           description: "Feb - May 2023",
@@ -521,6 +531,11 @@ ninja.data = [{
           description: "Aug 2024 - Feb 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/curta-calculator/";
+            },},{id: "projects-mechanical-ball-clock-2-ongoing",
+          title: 'Mechanical Ball Clock 2 (Ongoing)',
+          description: "Apr 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical-ball-clock-2/";
             },},{id: "projects-milk-jug",
           title: 'Milk Jug',
           description: "Sep 2024",
@@ -531,6 +546,11 @@ ninja.data = [{
           description: "Apr 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mooncake-stamp/";
+            },},{id: "projects-rgb-exit-light",
+          title: 'RGB Exit Light',
+          description: "May - Jun 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rgb-exit-light/";
             },},{id: "projects-romanesco",
           title: 'Romanesco',
           description: "Feb 2023",
