@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fractalfeldspar.github.io/sitemap.xml
+Sitemap: https://mxfn.github.io/sitemap.xml
