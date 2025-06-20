@@ -3,7 +3,7 @@ layout: page
 title: Capacitor Plushie
 description: Jun 2023
 img: assets/img/sitting_capacitor.jpg
-importance: 2
+importance: 3
 category: Mechanical
 related_publications: false
 ---
