@@ -11,7 +11,15 @@
     {% when 'discord_id' %}
       <a href="https://discord.com/users/{{ social[1] }}" title="Discord"><i class="fa-brands fa-discord"></i></a>
     {% when 'email' %}
-      <a href="mailto:{{ social[1] | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+      <span style="font-size: 20px;">
+        Email: <a href="mailto:{{ social[1] | encode_email }}" title="email">{{ social[1] }}</a>
+      </span>
+      {% comment %} <a href="mailto:{{ social[1] | encode_email }}" title="email">
+        <i class="fa-solid fa-envelope"></i>
+        <div style="font-size: 24px;">
+          {{ social[1] }}
+        </div>
+      </a> {% endcomment %}
     {% when 'facebook_id' %}
       <a href="https://facebook.com/{{ social[1] }}" title="Facebook"><i class="fa-brands fa-facebook"></i></a>
     {% when 'flickr_id' %}

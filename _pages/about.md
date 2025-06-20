@@ -32,9 +32,11 @@ projects:
 
 I studied mechanical engineering at MIT as an undergraduate. After I graduated in 2023, I worked in the medical device industry <b>designing and improving surgical instruments</b>.
 
-Right now, I am trying to build a <b>program to automate the design of mechanical hardware</b>. It would be a text to CAD program that takes in design requirements and outputs an assembly of 3D models that implements those design requirements. If that is something that excites you, please reach out to me using the email link below.
+Right now, I am trying to build a <b>program to automate the design of mechanical hardware</b>. My vision is a text to CAD program that takes in design requirements and outputs an assembly of 3D models that implements those design requirements. If that is something that excites you, please reach out to me using the email link below.
 
 I have also been working on building a <b>fully mechanical computer</b> and a <b>fully mechanical implementation of [Conway’s game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)</b>. I am very interested in discovering new mechanisms and exploring what is possible with mechanical hardware.
 
 In the near future, I hope to design <b>hardware for space</b>.
+
+Other interests: electronics, rock climbing, biking, and cooking experiments.
 
