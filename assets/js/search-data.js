@@ -445,6 +445,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-auditorium-architectural-model",
+          title: 'Auditorium Architectural Model',
+          description: "Nov 2017",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/auditorium/";
             },},{id: "projects-backdrive-resisting-mechanism",
           title: 'Backdrive Resisting Mechanism',
           description: "May 2024",
@@ -470,6 +475,11 @@ ninja.data = [{
           description: "Aug 2024 - Feb 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/curta-calculator/";
+            },},{id: "projects-donuts",
+          title: 'Donuts',
+          description: "May 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/donuts/";
             },},{id: "projects-e-bike-kickstand",
           title: 'E-Bike Kickstand',
           description: "Sep 2023",
@@ -490,6 +500,11 @@ ninja.data = [{
           description: "Apr 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mooncake-stamp/";
+            },},{id: "projects-polyhedron-generator",
+          title: 'Polyhedron Generator',
+          description: "May 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/polyhedron-generator/";
             },},{id: "projects-rgb-exit-light",
           title: 'RGB Exit Light',
           description: "May - Jun 2024",
@@ -500,6 +515,16 @@ ninja.data = [{
           description: "Feb 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/romanesco/";
+            },},{id: "projects-springless-ratchet",
+          title: 'Springless Ratchet',
+          description: "Oct 2017",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/springless-ratchet/";
+            },},{id: "projects-star-drive",
+          title: 'Star Drive',
+          description: "Jun 2018",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/star-drive/";
             },},{id: "projects-streetlamp-morse-code",
           title: 'Streetlamp Morse Code',
           description: "Jul - Oct 2022",
@@ -510,6 +535,11 @@ ninja.data = [{
           description: "Feb 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tide-pod/";
+            },},{id: "projects-waterphone",
+          title: 'Waterphone',
+          description: "May 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/waterphone/";
             },},{id: "projects-wingnut",
           title: 'Wingnut',
           description: "May 2024",
