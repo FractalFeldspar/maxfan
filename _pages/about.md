@@ -2,16 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_picture.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,8 +30,11 @@ projects:
   limit: 3
 ---
 
-Here is a text description, 3:24 PM. Here is some more text, 3:40 PM. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I studied mechanical engineering at MIT as an undergraduate. After I graduated in 2023, I worked in the medical device industry <b>designing and improving surgical instruments</b>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Right now, I am trying to build a <b>program to automate the design of mechanical hardware</b>. It would be a text to CAD program that takes in design requirements and outputs an assembly of 3D models that implements those design requirements. If that is something that excites you, please reach out to me using the email link below.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have also been working on building a <b>fully mechanical computer</b> and a <b>fully mechanical implementation of [Conway’s game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)</b>. I am very interested in discovering new mechanisms and exploring what is possible with mechanical hardware.
+
+In the near future, I hope to design <b>hardware for space</b>.
+

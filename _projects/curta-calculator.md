@@ -52,7 +52,7 @@ After creating the hardware for the calculator, I needed to add labels like the 
         {% include figure.liquid loading="eager" path="assets/img/curta_calculator/spray_painted_parts.jpg" alt="spray painted curta calculator parts" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-Creating all the stencils and spray painting everything was truly a labor of love. I spent a lot more time than I expected doing this—likely over 20 hours. It is true that the amount I learned from this activity compared to the amount of time I spent on it was lower than I would have liked. But I thought a mechanical device like this, which had so much history and elegant engineering behind it, deserved to be decorated accordingly.
+Creating all the stencils and spray painting everything was truly a labor of love. I spent a lot more time than I expected doing this—likely over 20 hours. It is true that the amount I learned from this activity compared to the amount of time I spent on it was lower than I would have liked. But I thought a mechanical device like this, which had so much history and elegant engineering behind it, needed to be decorated accordingly.
 
 <div class="embed-responsive embed-responsive-16by9 mt-4 mb-3">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/wOkwHTkWeZs?si=psfcdobasGR7rmbW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

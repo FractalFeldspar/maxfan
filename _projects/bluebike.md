@@ -39,7 +39,7 @@ For those unfamiliar with Bluebikes, they're a bicycle sharing service in Boston
     </div>
 </div>
 
-The electronics are quite simple. The front wheel hub houses a generator that powers the front and rear lights, and the docking triangle contains an RFID chip potted inside (which I saw using an X ray scanner). There is no tracking device in the bike.
+The electronics are surprisingly simple. The front wheel hub houses a generator that powers the front and rear lights, and the docking triangle contains an RFID chip potted inside (which I saw using an X ray scanner). There is no tracking device in the bike.
 
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3">
@@ -80,7 +80,7 @@ The working principle is illustrated by this image. The change in the steel ball
     </div>
 </div>
 
-The back wheel hub contains the continuously variable gear shifter. It is manufactured by <a href="https://enviolo.com/products/">Enviolo</a>. Enviolo has a nice animation showing how the device works. In the second picture, I removed the sprocket and gear ratio adjuster. They would be mounted on the right side of the picture.
+The back wheel hub contains the continuously variable gear shifter. It was made by <a href="https://enviolo.com/products/">Enviolo</a>. Enviolo has a nice animation showing how the device works. In the second picture, I removed the sprocket and gear ratio adjuster. They would be mounted on the right side of the picture.
 
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3">
