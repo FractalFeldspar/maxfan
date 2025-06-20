@@ -450,11 +450,11 @@ ninja.data = [{
           description: "Nov 2017",
           section: "Projects",handler: () => {
               window.location.href = "/projects/auditorium/";
-            },},{id: "projects-backdrive-resisting-mechanism",
-          title: 'Backdrive Resisting Mechanism',
+            },},{id: "projects-backdrive-resistant-mechanism",
+          title: 'Backdrive Resistant Mechanism',
           description: "May 2024",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/backdrive-resisting-mechanism/";
+              window.location.href = "/projects/backdrive-resistant-mechanism/";
             },},{id: "projects-reverse-engineering-a-bluebike",
           title: 'Reverse Engineering a Bluebike',
           description: "Feb - Mar 2025",
