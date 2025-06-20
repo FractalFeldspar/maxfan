@@ -18,7 +18,7 @@ related_publications: false
     </div>
 </div>
 
-For those unfamiliar with Bluebikes, they're a bicycle sharing service in Boston. To use one, you go to a dock, rent a bike for around \$3, and then put it back at any dock in the city once you're done. One day, I noticed a Bluebike left discarded on the side of the street. When I came back 12 hours later and noticed that it was still there, I concluded that it was abandoned and decided to learn as much as I could from it. I was curious about everything ranging from its electronics to its brakes, but I was particularly curious about the gear shifter. Unlike most bikes which only allow you to switch between discrete gear ratios, Bluebikes allow you to switch continuously between gear ratios.
+For those unfamiliar with Bluebikes, they're a bicycle sharing service in Boston. To use one, you go to a dock, rent a bike for around &#36;3, and then put it back at any dock in the city once you're done. One day, I noticed a Bluebike left discarded on the side of the street. When I came back 12 hours later and noticed that it was still there, I concluded that it was abandoned and decided to learn as much as I could from it. I was curious about everything ranging from its electronics to its brakes, but I was particularly curious about the gear shifter. Unlike most bikes which only allow you to switch between discrete gear ratios, Bluebikes allow you to switch continuously between gear ratios.
 
 <div class="h2"> Electronics </div>
 
