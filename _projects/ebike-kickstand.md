@@ -3,7 +3,7 @@ layout: page
 title: E-Bike Kickstand
 description: Sep 2023
 img: assets/img/kickstand/full_kickstand.jpg
-importance: 2
+importance: 3
 category: Mechanical
 related_publications: false
 ---
