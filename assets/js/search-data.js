@@ -485,6 +485,11 @@ ninja.data = [{
           description: "Sep 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ebike-kickstand/";
+            },},{id: "projects-jenga-calculator",
+          title: 'Jenga Calculator',
+          description: "Apr - Jul 2016",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/jenga-calculator/";
             },},{id: "projects-mechanical-ball-clock-2-ongoing",
           title: 'Mechanical Ball Clock 2 (Ongoing)',
           description: "Apr 2023",
