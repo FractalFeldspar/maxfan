@@ -535,6 +535,11 @@ ninja.data = [{
           description: "Feb 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/romanesco/";
+            },},{id: "projects-self-assembling-virus",
+          title: 'Self Assembling Virus',
+          description: "Nov 2019",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/self-assembling-virus/";
             },},{id: "projects-split-ring-gearbox",
           title: 'Split Ring Gearbox',
           description: "May 2018",
