@@ -470,6 +470,11 @@ ninja.data = [{
           description: "Feb - May 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chameleon/";
+            },},{id: "projects-continuous-to-intermittent-motion-mechanisms",
+          title: 'Continuous to Intermittent Motion Mechanisms',
+          description: "Jun 2018 - Apr 2019",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/continuous-to-intermittent-motion/";
             },},{id: "projects-curta-calculator",
           title: 'Curta Calculator',
           description: "Aug 2024 - Feb 2025",
@@ -495,6 +500,11 @@ ninja.data = [{
           description: "Apr 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical-ball-clock-2/";
+            },},{id: "projects-mechanical-ball-clock",
+          title: 'Mechanical Ball Clock',
+          description: "Apr - Jul 2019",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical-ball-clock/";
             },},{id: "projects-milk-jug",
           title: 'Milk Jug',
           description: "Sep 2024",
@@ -505,6 +515,11 @@ ninja.data = [{
           description: "Apr 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mooncake-stamp/";
+            },},{id: "projects-nixie-tube-clock",
+          title: 'Nixie Tube Clock',
+          description: "Jan 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nixie-tube-clock/";
             },},{id: "projects-polyhedron-generator",
           title: 'Polyhedron Generator',
           description: "May 2025",
@@ -520,16 +535,16 @@ ninja.data = [{
           description: "Feb 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/romanesco/";
+            },},{id: "projects-split-ring-gearbox",
+          title: 'Split Ring Gearbox',
+          description: "May 2018",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/split-ring-gearbox/";
             },},{id: "projects-springless-ratchet",
           title: 'Springless Ratchet',
           description: "Oct 2017",
           section: "Projects",handler: () => {
               window.location.href = "/projects/springless-ratchet/";
-            },},{id: "projects-star-drive",
-          title: 'Star Drive',
-          description: "Jun 2018",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/star-drive/";
             },},{id: "projects-streetlamp-morse-code",
           title: 'Streetlamp Morse Code',
           description: "Jul - Oct 2022",
@@ -540,6 +555,11 @@ ninja.data = [{
           description: "Feb 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tide-pod/";
+            },},{id: "projects-trillionaire",
+          title: 'Trillionaire',
+          description: "Jan 2020",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/trillionaire/";
             },},{id: "projects-waterphone",
           title: 'Waterphone',
           description: "May 2023",
