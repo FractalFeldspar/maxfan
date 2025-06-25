@@ -15,7 +15,7 @@ related_publications: false
     </div>
 </div>
 
-This project is unusual because unlike my other large projects, most of the design had already been done by someone else. However, as somebody who’s trying to build a fully mechanical computer and also enjoys learning from elegant designs, I thought it made sense to take on this project.
+This project is unusual because unlike my other large projects, most of the design had already been done by someone else. However, as somebody who’s trying to build a fully mechanical computer and enjoys learning from elegant designs, I thought it made sense to take on this project.
 
 <div class="row justify-content-center">
     <div class="col-sm-6 mt-3">
