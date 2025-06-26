@@ -3,7 +3,7 @@ layout: page
 title: Polyhedron Generator
 description: May 2025
 img: assets/img/virtual_polyhedron.jpg
-importance: 2
+importance: 3
 category: Electromechanical
 related_publications: false
 ---

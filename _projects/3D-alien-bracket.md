@@ -3,7 +3,7 @@ layout: page
 title: 3D Alien Bracket
 description: Aug 2022
 img: assets/img/3d_alien_bracket.jpg
-importance: 3
+importance: 4
 category: Mechanical
 related_publications: false
 ---
