@@ -510,6 +510,11 @@ ninja.data = [{
           description: "Apr 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mooncake-stamp/";
+            },},{id: "projects-motorcycle-scream-o-meter",
+          title: 'Motorcycle Scream-O-Meter',
+          description: "Dec 2020",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/motorcycle-scream-o-meter/";
             },},{id: "projects-nixie-tube-clock",
           title: 'Nixie Tube Clock',
           description: "Jan 2023",
@@ -520,6 +525,11 @@ ninja.data = [{
           description: "May 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/polyhedron-generator/";
+            },},{id: "projects-raspberry-pi-ball-launcher",
+          title: 'Raspberry Pi Ball Launcher',
+          description: "Jan - Feb 2021",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/raspberry-pi-ball-launcher/";
             },},{id: "projects-rgb-exit-light",
           title: 'RGB Exit Light',
           description: "May - Jun 2024",
