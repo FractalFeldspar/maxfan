@@ -8,8 +8,8 @@ category: Hidden
 related_publications: false
 ---
 
-<div class="h2">Ball-Based</div>
-Nov 2023
+<h2 class="post-title">Ball-Based</h2>
+<p class="subpost-description">Nov 2023</p>
 <div class="embed-responsive embed-responsive-16by9 mb-3">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/_hQ11aZ3hdk?si=XI3X-BpevBfRVlTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -17,8 +17,8 @@ Nov 2023
 I developed a mechanism that allows a slider to move forward and backward once and then prevents the slider from moving forward again. When the slider moves forward, a spring-loaded ball snaps forward. When the slider is moved back, the spring pushes the ball into a window in the slider. This ball then blocks the slider from moving forward again. A light spring is preferable because if the slider doesn't have sufficient friction or some other holding force, the spring automatically pushes the slider forward.
 
 
-<div class="h2">Cantilever-Based</div>
-Mar 2024
+<h2 class="post-title">Cantilever-Based</h2>
+<p class="subpost-description">Mar 2024</p>
 <div class="embed-responsive embed-responsive-16by9 mb-3">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/6u3fJ66nyjg?si=Drl27SljDzgtEFok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>

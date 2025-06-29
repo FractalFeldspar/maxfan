@@ -14,7 +14,7 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/On_Grass.jpg" alt="robot on grass" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-I built this robot for 2.007, an MIT robotics competition class very similar to the annual FIRST robotics competition. Early on, I decided I wanted to build something unique. To that end, I built a tape-measure style actuator that could extend to multiple times the robot’s starting height. Compared to cable-driven multistage lift mechanisms and linkage-based mechanisms, this actuator is lighter and has more extension at the cost of lower load capacity.
+I built this robot for an MIT robotics competition class (2.007) very similar to the annual FIRST robotics competition. Early on, I decided I wanted to build something unique. To that end, I built a tape-measure style actuator that could extend to multiple times the robot’s starting height. Compared to cable-driven multistage lift mechanisms and linkage-based mechanisms, this actuator is lighter and has more extension at the cost of lower load capacity.
 
 
 <div class="embed-responsive embed-responsive-16by9 mt-4 mb-3">

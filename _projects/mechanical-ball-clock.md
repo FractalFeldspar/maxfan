@@ -13,7 +13,7 @@ related_publications: false
     <iframe width="560" height="315" src="https://www.youtube.com/embed/JKv2sZO4aGY?si=e8iIDBwpUzCc4_C3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div> 
 
-Many years ago, I was working on another mechanical project when I suddenly came up with an idea for a mechanical clock. For context, common escapement designs like watch escapements experience deviations in their period when the energy source (e.g., a mainspring) supplies different amounts of torque/force to the rest of the clock. This is why some mechanical watches use a [fusee mechanism](https://en.wikipedia.org/wiki/Fusee_%28horology%29) in combination with their mainspring. The idea I had was to create a second escapement that was insulated from the varying levels of torque/force supplied by the energy source. One year after this idea came to me, I decided to pursue it by designing and building this mechanical clock.
+Many years ago, I was working on another mechanical project when I suddenly came up with an idea for a mechanical clock. For context, common escapement designs like watch escapements experience deviations in their period when their energy source (e.g., a mainspring) supplies different amounts of torque/force to the rest of the clock. This is why some mechanical watches use a [fusee mechanism](https://en.wikipedia.org/wiki/Fusee_%28horology%29) in combination with their mainspring. The idea I had was to create a second escapement that was insulated from the varying levels of torque/force supplied by the energy source. One year after this idea came to me, I decided to pursue it by designing and building this mechanical clock.
 
 <!-- <div class="embed-responsive embed-responsive-16by9 mt-4 mb-3">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/x7STD5HqZzA?si=PjqoqM41ET_HG6tv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -131,8 +131,9 @@ Powered by steel balls, this clock is purely mechanical and has five sections:
     <li>Collector <a href="#" onclick="seekToAndScroll(32); return false;">(0:32)</a></li>
 </ul>
 
-<div class="h2">Storage</div>
-Timestamp: <a href="#" onclick="seekToAndScroll(3); return false;">0:03</a><br>
+
+<h2 class="post-title">Storage</h2>
+<p class="subpost-timestamp">Timestamp: <a href="#" onclick="seekToAndScroll(3); return false;">0:03</a></p>
 <p>This is where all the balls within the clock are initially stored. When filled to capacity, the clock can run for about 11.5 minutes. However, if the storage is replenished at regular intervals so that it never becomes empty, the clock could theoretically run indefinitely.</p>
 
 <div class="row justify-content-center">
@@ -160,17 +161,19 @@ I realized pretty quickly that creating the storage module was not as straightfo
 </div>
  This is why my final design uses a gentle horizontal taper. The gentle taper makes sure the steel balls can only approach the outlet from one direction, and the horizontal wedge's perpendicular orientation to gravity reduces the pressure the steel balls in the taper can exert towards the outlet. The roof of the horizontal taper also insulates the outlet from the pressure applied from balls above the horizontal taper. After adding this horizontal taper to the storage module, it finally stopped jamming.
 
-<div class="h2">Timekeeping</div>
-Timestamp: <a href="#" onclick="seekToAndScroll(17); return false;">0:17</a><br>
+
+<h2 class="post-title">Timekeeping</h2>
+<p class="subpost-timestamp">Timestamp: <a href="#" onclick="seekToAndScroll(17); return false;">0:17</a></p>
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3">
         {% include figure.liquid loading="eager" path="assets/img/mechanical_ball_clock/timekeeping.jpg" alt="timekeeping module of mechanical ball clock" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-The clock consists of 2 escapement mechanisms. The period of the smaller escapement to the right is the time it takes for a ball to roll from the top of the escapement to the bottom of the escapement, and this directly sets the clock's period. I designed the clock period to be around 4 seconds, and I can fine tune this period by adjusting the position of the black slider on the track. The period of the larger escapement does not need to be precise because it just needs to supply a new ball to the smaller escapement at some point during the smaller escapement's clock cycle. I used two escapements because I wanted to insulate the smaller escapement from the pressure and friction applied from the balls in the storage module. Ironically, I later learned that rolling ball clocks are notoriously inaccurate at timekeeping compared to other clocks because of their sensitivity to dust on the tracks. However, that was acceptable to me because I realized early on in this project that I was more interested in the opportunity to design ball-based mechanisms than I was in making an accurate clock.
+The clock consists of 2 escapement mechanisms. The period of the smaller escapement to the right is the time it takes for a ball to roll from the top of the escapement to the bottom of the escapement, and this directly sets the clock's period. I designed the clock period to be around 4 seconds, and I can fine tune this period by adjusting the position of the black slider on the track. The period of the larger escapement does not need to be precise because it just needs to supply a new ball to the smaller escapement at some point during the smaller escapement's clock cycle. I used two escapements because I wanted to insulate the smaller escapement from the pressure and friction applied from the balls in the storage module. Ironically, I later learned that rolling ball clocks are notoriously inaccurate at timekeeping compared to other clocks because of their sensitivity to dust on the tracks. However, that was acceptable to me because I realized soon after starting this project that I was more interested in the opportunity to design ball-based mechanisms than I was in making an accurate clock.
 
-<div class="h2">Display</div>
-Timestamp: <a href="#" onclick="seekToAndScroll(21); return false;">0:21</a><br>
+
+<h2 class="post-title">Display</h2>
+<p class="subpost-timestamp">Timestamp: <a href="#" onclick="seekToAndScroll(21); return false;">0:21</a></p>
 <div class="row justify-content-center">
     <div class="col-sm-9 mt-3">
         {% include figure.liquid loading="eager" path="assets/img/mechanical_ball_clock/display.jpg" alt="display module of mechanical ball clock" class="img-fluid rounded z-depth-1" %}
@@ -178,17 +181,19 @@ Timestamp: <a href="#" onclick="seekToAndScroll(21); return false;">0:21</a><br>
 </div>
 The top green lever represents seconds, and the bottom green lever represents minutes. A ball on the top lever represents 4 seconds, and a ball on the bottom lever represents 1 minute. Once 15 balls have accumulated on the top lever, the lever tips over and dumps out all but one of the balls. This remaining ball then rolls to the bottom lever. To make the display easier to read, I printed some paper labels and inserted them into the display levers while I was 3D printing them.
 
-<div class="h2">Regulator</div>
-Timestamp: <a href="#" onclick="seekToAndScroll(28); return false;">0:28</a><br>
+
+<h2 class="post-title">Regulator</h2>
+<p class="subpost-timestamp">Timestamp: <a href="#" onclick="seekToAndScroll(28); return false;">0:28</a></p>
 <div class="row justify-content-center">
     <div class="col-sm-9 mt-3">
         {% include figure.liquid loading="eager" path="assets/img/mechanical_ball_clock/regulator.png" alt="regulator module of mechanical ball clock" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-The regulator's purpose is to absorb the sudden surge of steel balls coming out of the display levers and release them one at a time into the collector module below. This is necessary because the collector module can only process one ball at a time.
+The regulator's purpose is to absorb the sudden surge of steel balls coming out of the display levers and release them one at a time into the collector module below. This is necessary because the collector module below can only process one ball at a time.
 
-<div class="h2">Collector</div>
-Timestamp: <a href="#" onclick="seekToAndScroll(32); return false;">0:32</a><br>
+
+<h2 class="post-title">Collector</h2>
+<p class="subpost-timestamp">Timestamp: <a href="#" onclick="seekToAndScroll(32); return false;">0:32</a></p>
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3">
         {% include figure.liquid loading="eager" path="assets/img/mechanical_ball_clock/container.jpg" alt="collector module of mechanical ball clock" class="img-fluid rounded z-depth-1" %}
@@ -196,7 +201,8 @@ Timestamp: <a href="#" onclick="seekToAndScroll(32); return false;">0:32</a><br>
 </div>
 This is where all the balls collect after they have expended their potential energy going through the clock. The containers are designed so that balls go into the first non-full tank they encounter. In other words, balls will fill up the top tank by default, and they will only begin filling the bottom tank once the top tank becomes full. I designed the containers this way because filling from bottom to top would have caused the bottom container to overflow or collect balls in a dead zone between the bottom and top container. To maximize storage efficiency, the containers store the balls in a hexagonal packing arrangement.
 
-<div class="h2">Other Thoughts</div>
+
+<h2 class="post-title">Other Thoughts</h2>
 <div class="row justify-content-center">
     <div class="col-sm-12 mt-3">
         {% include figure.liquid loading="eager" path="assets/img/mechanical_ball_clock/iterations.jpg" alt="iterations of the mechanical ball clock" class="img-fluid rounded z-depth-1" %}
@@ -204,4 +210,4 @@ This is where all the balls collect after they have expended their potential ene
 </div>
 It took me an unusually high number of iterations to design the mechanisms in this project compared to my other projects. In this project, it was typical for me to design over ten iterations of a mechanism before it began to work reliably. This was especially true of the storage and timekeeping modules. <br>
 
-Years later, I decided to continue exploring ball-based mechanisms by beginning work on a mechanical computer run by steel balls and a second mechanical ball clock. I realized that I could perform complex operations such as adding, bit shifting, timekeeping, and displaying using no moving parts other than the steel balls. However, it seems like designing ball-based mechanisms is deceptively challenging. Some of the mechanisms I designed for my mechanical computer and second clock took over 100 iterations to get right, and I still have many more mechanisms to design for those projects. 
+Years later, I decided to continue exploring ball-based mechanisms by beginning work on a mechanical computer run by steel balls and a second mechanical ball clock. I realized that I could perform complex operations such as adding, bit shifting, timekeeping, and displaying using no moving parts other than the steel balls. However, it seems like designing ball-based mechanisms is deceptively challenging. Some of the mechanisms I designed for my mechanical computer and second clock took around 100 iterations to get right, and I still have many more mechanisms to design for those projects. 

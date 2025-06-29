@@ -20,7 +20,7 @@ related_publications: false
 
 For those unfamiliar with Bluebikes, they're a bicycle sharing service in Boston. To use one, you go to a dock, rent a bike for around <span>&#36;</span>3, and then put it back at any dock in the city once you're done. One day, I noticed a Bluebike left discarded on the side of the street. When I came back 12 hours later and noticed that it was still there, I concluded that it was abandoned and decided to learn as much as I could from it. I was curious about everything ranging from its electronics to its brakes, but I was particularly curious about the gear shifter. Unlike most bikes which only allow you to switch between discrete gear ratios, Bluebikes allow you to switch continuously between gear ratios.
 
-<div class="h2"> Electronics </div>
+<h2 class="post-title">Electronics</h2>
 
 <div class="row justify-content-center">
     <div class="col-sm-7 mt-3">
@@ -49,7 +49,7 @@ The electronics are surprisingly simple. The front wheel hub houses a generator 
 
 The docking triangle axle is fastened using set screws, which means one could remove it relatively easily. If the docking triangle is placed into the Bluebike docking station without the rest of the bike, the docking station likely wouldn’t be able to tell that the rest of the bike isn’t attached.
 
-<div class="h2"> Structure </div>
+<h2 class="post-title">Structure</h2>
 
 Even though the bike is quite heavy, the frame is aluminum, not steel. Around half the weight of the bike is due to the frame, and the other half are the two wheels. All the fasteners are metric.
 
@@ -61,7 +61,7 @@ Even though the bike is quite heavy, the frame is aluminum, not steel. Around ha
 
 A side screw prevents the seat post from being pulled out of the bike. You have to rotate the seat 90 degrees counterclockwise and then unscrew the screw through a small hole on the right side of the frame.
 
-<div class="h2"> Gear Shifter </div>
+<h2 class="post-title">Gear Shifter</h2>
 
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3">
@@ -126,7 +126,7 @@ The hexagonal sheet metal part to the right that contains 6 rectangular protrusi
 
 Here, you can see the underside of the planetary gears, housed inside of a gray plate (bottom center). When these gears rotate, their off-centered circular bosses cause the entire gray plate in which they are housed to rotate. The slots in this gray plate then cam one end of the axles of the steel balls radially inward or outward. Due to the shape of the gray ball housing (top left), the other end of the axles will move radially in the opposite direction. Note that the gray ball housing is fixed to the hub shaft, and this shaft is fixed to the bike frame so that it doesn’t rotate. This ensures that when the gray plate rotates, it doesn’t just drag the gray ball housing with it. As a result, the steel ball center position remains the same but its axis of rotation changes. As noted in the very first diagram, the ability to adjust the axis of rotation of the steel balls is what allows this gear shifter to achieve a continuous range of gear ratios.
 
-<div class="h2"> Brakes </div>
+<h2 class="post-title">Brakes</h2>
 
 <div class="row justify-content-center">
     <div class="col-sm-4 mt-3">
@@ -149,7 +149,7 @@ The front brake is a Sturmey Archer XL-FDD. It contains a drum brake on one side
 
 The back brake is a Shimano Nexus roller brake. The splined component rotates with the back wheel. The metal disk below that is the brake actuator. When that metal disk is rotated, it cams cylindrical rollers (barely visible in the photo) outward and causes the splined component (and therefore the wheel) to lock up with the rest of the brake, which is fixed against the frame of the bike. Bluebike probably used this exotic brake because its flat compactness gave more room for the bulky continuously variable gear shifter housed in the rest of the hub and the functional parts of this brake are well-protected from weather/vandalism. (I’m assuming the big, exposed aluminum disk with holes in it is there to provide cooling to the brake).
 
-<div class="h2"> Other </div>
+<h2 class="post-title">Other</h2>
 
 The Bluebike likely feels inefficient due to the high weight, the limited gear ratio at its highest gear, the inefficiency of the front wheel’s electric generator, and the viscous losses inside the back wheel’s gear shifting hub.
 
