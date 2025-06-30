@@ -490,9 +490,14 @@ ninja.data = [{
           description: "Apr - Jul 2016",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jenga-calculator/";
+            },},{id: "projects-locks",
+          title: 'Locks',
+          description: "Jul 2018 - Sep 2020",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/locks/";
             },},{id: "projects-mechanical-ball-clock-2-ongoing",
           title: 'Mechanical Ball Clock 2 (Ongoing)',
-          description: "Apr 2023",
+          description: "Jan 2021 - Apr 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical-ball-clock-2/";
             },},{id: "projects-mechanical-ball-clock",
@@ -525,6 +530,11 @@ ninja.data = [{
           description: "May 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/polyhedron-generator/";
+            },},{id: "projects-puzzles",
+          title: 'Puzzles',
+          description: "Jun - Sep 2018",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/puzzles/";
             },},{id: "projects-raspberry-pi-ball-launcher",
           title: 'Raspberry Pi Ball Launcher',
           description: "Jan - Feb 2021",
@@ -585,6 +595,11 @@ ninja.data = [{
           description: "May 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/waterphone/";
+            },},{id: "projects-wheelchair-speed-governor",
+          title: 'Wheelchair Speed Governor',
+          description: "Sep - Dec 2022",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wheelchair-speed-governor/";
             },},{id: "projects-wingnut",
           title: 'Wingnut',
           description: "May 2024",
