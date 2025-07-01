@@ -490,6 +490,11 @@ ninja.data = [{
           description: "Apr - Jul 2016",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jenga-calculator/";
+            },},{id: "projects-jenga-structures",
+          title: 'Jenga Structures',
+          description: "Mar 2014 - Feb 2017",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/jenga-structures/";
             },},{id: "projects-locks",
           title: 'Locks',
           description: "Jul 2018 - Sep 2020",
