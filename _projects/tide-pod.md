@@ -3,7 +3,7 @@ layout: page
 title: Tide Pod
 description: Feb 2023
 img: assets/img/Tide_Pods.jpg
-importance: 2
+importance: 3
 category: Mechanical
 related_publications: false
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Wingnut
 description: May 2024
 img: assets/img/Wingnut.jpg
-importance: 2
+importance: 3
 category: Mechanical
 related_publications: false
 ---

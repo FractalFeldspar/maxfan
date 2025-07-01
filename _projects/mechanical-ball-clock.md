@@ -3,7 +3,7 @@ layout: page
 title: Mechanical Ball Clock
 description: Apr - Jul 2019
 img: assets/img/mechanical_ball_clock/full_clock.jpg
-importance: 1
+importance: 0
 category: Mechanical
 related_publications: false
 ---
